@@ -2,11 +2,11 @@
 [
   {
     "kernelSource": {
-      "name": "realme_rmx3142_ksu",
-      "repo": "https://github.com/xkse1234/realmeQ3_Q3pro_AndroidS_kernel-source",
-      "branch": "master",
-      "device": "rmx3142",
-      "defconfig": "user_config"
+      "name": "nubia_nx651j_ksu",
+      "repo": "https://github.com/LineageOS/android_kernel_nubia_sm7250/",
+      "branch": "lineage-21",
+      "device": "nx651j",
+      "defconfig": "defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
